@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Avijit-chowdhury
+- 👋 Hi, I’m Avijit 
 - 🗺️ I'm very curious for unknown 
 - 📚 I’m interested in learning new things 
 - ⌛ I’m currently doing game development
