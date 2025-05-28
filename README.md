@@ -2,3 +2,4 @@
 - 🗺️ I'm very curious for unknown 
 - 📚 I’m interested in learning new things 
 - ⌛ I’m currently doing game development
+- 📞 Contact me on telegram @martiallord
